@@ -1,5 +1,3 @@
-package data_structures_hw3;
-
 public class ArrayQueue<E> implements Queue<E> {
 	  // instance variables
 	  /** Default array capacity. */
