@@ -1,5 +1,3 @@
-package data_structures_hw3;
-
 public class Sieve {
 	
 	private ArrayQueue<Integer> numbers;
