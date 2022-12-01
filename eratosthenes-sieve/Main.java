@@ -1,5 +1,3 @@
-package data_structures_hw3;
-
 import java.util.Scanner;
 
 public class Main {
