@@ -1,5 +1,3 @@
-package data_structures_hw3;
-
 public interface Queue<E> {
 	  /**
 	   * Returns the number of elements in the queue.
